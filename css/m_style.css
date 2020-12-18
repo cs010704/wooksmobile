@@ -1,0 +1,24 @@
+*{margin: 0;}
+
+html{font-size: 10px;}
+body{font-size: 1rem;}
+a{text-decoration: none;color: #ffffff;}
+
+header{height: 7.2rem;text-align: center;}
+header > .logo{padding-top: 0.5rem;}
+
+select > .keyvisual{text-align: center;}
+
+select > .profile{background-color: #000000;}
+
+.pf_01, .pf_02{text-align: center; background-color: #000000;}
+.pf_02{padding-top: 14.3rem;}
+
+.pf1, .pf2, .pf3, .pf4{text-align: center; background-color: #000000;}
+
+.pf1{padding-top: 16rem;}
+.pf2{padding-top: 16rem;}
+.pf3{padding-top: 16rem;}
+.pf4{padding-top: 16rem;}
+
+.footer{text-align: center; background-color: #000000; padding-top: 6.2rem;}

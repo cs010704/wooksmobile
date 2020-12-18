@@ -1,0 +1,44 @@
+*{margin: 0;}
+html{font-size: 10px;background-color: black;}
+body{font-style: 1rem;}
+a{text-decoration: none;}
+
+header{position: fixed;background-color: #ffffff;width: 100%;height: 8rem;z-index: 9999;}
+header > nav{width: 102.4rem;margin: auto;display: flex;justify-content: space-between;align-items: center;height: 8rem;}
+
+header > nav > .menu {display: inline-block;}
+header > nav > .menu > ul {list-style: none;}
+header > nav > .menu > ul > li {float: left;margin: 0rem 2rem;}
+header > nav > .menu > ul > li > a {color: #000000;font-family : 'Nanum Gothic', sans-serif;font-size: 1.5rem;font-weight: 900;letter-spacing: -0.02rem;}
+header > nav > .menu > ul > li > a:hover {color: #AFAFAF;}
+section{padding-top: 8rem;}
+section > .keyvisual {background-image: url('../img/02_keyvisual_bg.png');height: 95rem;}
+section > .keyvisual > .keyvisual_wrap {margin: auto;width: 102.4rem;height: 95rem;}
+
+section > .Profile > .Profile_wrap {margin: auto;width: 102.4rem;}
+section > .Profile > .Profile_wrap > .Profile_01{padding-top: 4.6rem;}
+section > .Profile > .Profile_wrap > .Profile_02{margin-top: 13.2rem;}
+
+section > .eddesing > .eddesing_wrap {margin: auto;width: 102.4rem;}
+section > .eddesing > .eddesing_wrap > .eddesing_01{margin-top: 32rem;}
+section > .eddesing > .eddesing_wrap > .eddesing_02{margin-top: 6rem;}
+section > .eddesing > .eddesing_wrap > .eddesing_03{margin-top: 6rem;}
+section > .eddesing > .eddesing_wrap > .eddesing_04{margin-top: 6rem;}
+section > .eddesing > .eddesing_wrap > .eddesing_05{margin-top: 6rem;}
+section > .eddesing > .eddesing_wrap > .eddesing_06{margin-top: 6rem;}
+
+section > .addesing > .addesing_wrap {margin: auto;width: 102.4rem;}
+section > .addesing > .addesing_wrap > .addesing_01{margin-top: 32rem;}
+section > .addesing > .addesing_wrap > .addesing_02{margin-top: 6rem;}
+section > .addesing > .addesing_wrap > .addesing_03{margin-top: 6rem;}
+
+section > .Packagedesign > .Packagedesign_wrap {margin: auto;width: 102.4rem;}
+section > .Packagedesign > .Packagedesign_wrap > .Packagedesign_01{margin-top: 32rem;}
+section > .Packagedesign > .Packagedesign_wrap > .Packagedesign_02{margin-top: 6rem;}
+
+section > .Identitydesign > .Identitydesign_wrap {margin: auto;width: 102.4rem;}
+section > .Identitydesign > .Identitydesign_wrap > .Identitydesign_01{margin-top: 32rem;}
+section > .Identitydesign > .Identitydesign_wrap > .Identitydesign_02{margin-top: 6rem;}
+
+footer > .footer_wrap {margin: auto;text-align: center;;}
+footer > .footer_wrap > .footer_logo {margin-top: 20rem;}
